@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+mysql-connector-python
+pydantic
+python-dotenv  # Optional but recommended for managing DB credentials securely
